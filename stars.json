@@ -1,7 +1,7 @@
 [
   {
     "full_name": "kciter/aws-ecr-action",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 10,
     "forks_count": 87
   },
@@ -21,7 +21,7 @@
     "full_name": "thegooddocsproject/templates",
     "stargazers_count": 611,
     "open_issues_count": 76,
-    "forks_count": 152
+    "forks_count": 151
   },
   {
     "full_name": "jonico/awesome-runners",
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 2787,
+    "stargazers_count": 2791,
     "open_issues_count": 22,
-    "forks_count": 287
+    "forks_count": 288
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 1617,
-    "open_issues_count": 10,
+    "stargazers_count": 1620,
+    "open_issues_count": 12,
     "forks_count": 269
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 3562,
-    "open_issues_count": 250,
-    "forks_count": 1209
+    "stargazers_count": 3569,
+    "open_issues_count": 253,
+    "forks_count": 1208
   },
   {
     "full_name": "algorithmiaio/algorithmia-ci-action",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 28324,
-    "open_issues_count": 72,
+    "stargazers_count": 28374,
+    "open_issues_count": 71,
     "forks_count": 746
   },
   {
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 60467,
-    "open_issues_count": 13,
-    "forks_count": 6652
+    "stargazers_count": 60501,
+    "open_issues_count": 15,
+    "forks_count": 6659
   },
   {
     "full_name": "gr2m/get-json-paths-action",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 251174,
-    "open_issues_count": 182,
-    "forks_count": 51374
+    "stargazers_count": 251498,
+    "open_issues_count": 189,
+    "forks_count": 51458
   },
   {
     "full_name": "datadynamo/aiconf_sj_2019_pytorch",

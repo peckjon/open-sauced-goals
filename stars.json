@@ -14,18 +14,18 @@
   {
     "full_name": "GeekMasher/advanced-security-compliance",
     "stargazers_count": 118,
-    "open_issues_count": 22,
+    "open_issues_count": 24,
     "forks_count": 23
   },
   {
     "full_name": "thegooddocsproject/templates",
-    "stargazers_count": 614,
+    "stargazers_count": 613,
     "open_issues_count": 76,
-    "forks_count": 153
+    "forks_count": 154
   },
   {
     "full_name": "jonico/awesome-runners",
-    "stargazers_count": 408,
+    "stargazers_count": 409,
     "open_issues_count": 0,
     "forks_count": 26
   },
@@ -37,19 +37,19 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 2824,
+    "stargazers_count": 2830,
     "open_issues_count": 22,
-    "forks_count": 293
+    "forks_count": 297
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 1660,
+    "stargazers_count": 1667,
     "open_issues_count": 8,
     "forks_count": 270
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 918,
+    "stargazers_count": 919,
     "open_issues_count": 38,
     "forks_count": 204
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 3600,
-    "open_issues_count": 256,
-    "forks_count": 1211
+    "stargazers_count": 3606,
+    "open_issues_count": 257,
+    "forks_count": 1212
   },
   {
     "full_name": "algorithmiaio/algorithmia-ci-action",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 28830,
-    "open_issues_count": 79,
-    "forks_count": 754
+    "stargazers_count": 28918,
+    "open_issues_count": 81,
+    "forks_count": 755
   },
   {
     "full_name": "LizzySoltis/CoopedUp4Covid19",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "danhellem/github-actions-issue-to-work-item",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 4,
     "forks_count": 47
   },
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "hugo53/awesome-RemoteWork",
-    "stargazers_count": 1077,
+    "stargazers_count": 1078,
     "open_issues_count": 16,
     "forks_count": 109
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 60773,
-    "open_issues_count": 16,
-    "forks_count": 6702
+    "stargazers_count": 60887,
+    "open_issues_count": 14,
+    "forks_count": 6713
   },
   {
     "full_name": "gr2m/get-json-paths-action",
@@ -128,14 +128,14 @@
   {
     "full_name": "octokit/action.js",
     "stargazers_count": 125,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 52
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 252721,
-    "open_issues_count": 331,
-    "forks_count": 52000
+    "stargazers_count": 252954,
+    "open_issues_count": 355,
+    "forks_count": 52069
   },
   {
     "full_name": "datadynamo/aiconf_sj_2019_pytorch",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "lukas/ml-class",
-    "stargazers_count": 1813,
+    "stargazers_count": 1814,
     "open_issues_count": 9,
     "forks_count": 1049
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "NUKnightLab/TimelineJS3",
-    "stargazers_count": 2586,
+    "stargazers_count": 2587,
     "open_issues_count": 174,
     "forks_count": 568
   }

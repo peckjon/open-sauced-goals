@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "jnunemaker/flipper",
+    "stargazers_count": 3111,
+    "open_issues_count": 16,
+    "forks_count": 380
+  },
+  {
     "full_name": "kciter/aws-ecr-action",
     "stargazers_count": 113,
     "open_issues_count": 10,
@@ -19,13 +25,13 @@
   },
   {
     "full_name": "thegooddocsproject/templates",
-    "stargazers_count": 619,
+    "stargazers_count": 620,
     "open_issues_count": 76,
-    "forks_count": 156
+    "forks_count": 155
   },
   {
     "full_name": "jonico/awesome-runners",
-    "stargazers_count": 437,
+    "stargazers_count": 438,
     "open_issues_count": 0,
     "forks_count": 27
   },
@@ -37,19 +43,19 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 2894,
+    "stargazers_count": 2902,
     "open_issues_count": 23,
     "forks_count": 309
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 1773,
+    "stargazers_count": 1826,
     "open_issues_count": 9,
-    "forks_count": 281
+    "forks_count": 284
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 938,
+    "stargazers_count": 939,
     "open_issues_count": 38,
     "forks_count": 205
   },
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 3673,
-    "open_issues_count": 261,
-    "forks_count": 1230
+    "stargazers_count": 3682,
+    "open_issues_count": 262,
+    "forks_count": 1234
   },
   {
     "full_name": "algorithmiaio/algorithmia-ci-action",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 32047,
-    "open_issues_count": 83,
-    "forks_count": 807
+    "stargazers_count": 32366,
+    "open_issues_count": 86,
+    "forks_count": 813
   },
   {
     "full_name": "LizzySoltis/CoopedUp4Covid19",
@@ -104,14 +110,14 @@
   {
     "full_name": "hugo53/awesome-RemoteWork",
     "stargazers_count": 1087,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 110
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 63031,
+    "stargazers_count": 63183,
     "open_issues_count": 11,
-    "forks_count": 6890
+    "forks_count": 6898
   },
   {
     "full_name": "gr2m/get-json-paths-action",
@@ -121,21 +127,21 @@
   },
   {
     "full_name": "octokit/graphql-action",
-    "stargazers_count": 71,
+    "stargazers_count": 72,
     "open_issues_count": 5,
     "forks_count": 21
   },
   {
     "full_name": "octokit/action.js",
-    "stargazers_count": 128,
+    "stargazers_count": 130,
     "open_issues_count": 2,
     "forks_count": 52
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 257360,
+    "stargazers_count": 257649,
     "open_issues_count": 53,
-    "forks_count": 52742
+    "forks_count": 52777
   },
   {
     "full_name": "datadynamo/aiconf_sj_2019_pytorch",
@@ -170,13 +176,7 @@
   {
     "full_name": "mattstratton/xela",
     "stargazers_count": 21,
-    "open_issues_count": 38,
+    "open_issues_count": 39,
     "forks_count": 4
-  },
-  {
-    "full_name": "NUKnightLab/TimelineJS3",
-    "stargazers_count": 2607,
-    "open_issues_count": 176,
-    "forks_count": 570
   }
 ]

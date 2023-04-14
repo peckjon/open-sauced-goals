@@ -1,39 +1,39 @@
 [
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 16685,
-    "open_issues_count": 193,
-    "forks_count": 1497
+    "stargazers_count": 17008,
+    "open_issues_count": 199,
+    "forks_count": 1535
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 63744,
-    "open_issues_count": 231,
-    "forks_count": 7791
+    "stargazers_count": 65326,
+    "open_issues_count": 234,
+    "forks_count": 8012
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 37174,
-    "open_issues_count": 105,
-    "forks_count": 934
+    "stargazers_count": 37272,
+    "open_issues_count": 104,
+    "forks_count": 935
   },
   {
     "full_name": "jnunemaker/flipper",
-    "stargazers_count": 3220,
+    "stargazers_count": 3225,
     "open_issues_count": 21,
-    "forks_count": 380
+    "forks_count": 378
   },
   {
     "full_name": "kciter/aws-ecr-action",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 11,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "peckjon/reject-pr-approval-from-committer",
     "stargazers_count": 6,
     "open_issues_count": 4,
-    "forks_count": 2
+    "forks_count": 1
   },
   {
     "full_name": "GeekMasher/advanced-security-compliance",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "thegooddocsproject/templates",
-    "stargazers_count": 637,
+    "stargazers_count": 638,
     "open_issues_count": 76,
     "forks_count": 163
   },
   {
     "full_name": "jonico/awesome-runners",
-    "stargazers_count": 515,
+    "stargazers_count": 518,
     "open_issues_count": 0,
     "forks_count": 34
   },
@@ -61,19 +61,19 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 3168,
-    "open_issues_count": 26,
-    "forks_count": 352
+    "stargazers_count": 3175,
+    "open_issues_count": 27,
+    "forks_count": 351
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 2025,
-    "open_issues_count": 14,
+    "stargazers_count": 2033,
+    "open_issues_count": 15,
     "forks_count": 294
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 996,
+    "stargazers_count": 997,
     "open_issues_count": 45,
     "forks_count": 218
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 3954,
-    "open_issues_count": 289,
-    "forks_count": 1327
+    "stargazers_count": 3957,
+    "open_issues_count": 291,
+    "forks_count": 1331
   },
   {
     "full_name": "algorithmiaio/algorithmia-ci-action",
@@ -110,7 +110,7 @@
   {
     "full_name": "danhellem/github-actions-issue-to-work-item",
     "stargazers_count": 55,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 52
   },
   {
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "hugo53/awesome-RemoteWork",
-    "stargazers_count": 1162,
+    "stargazers_count": 1164,
     "open_issues_count": 18,
     "forks_count": 120
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 68903,
-    "open_issues_count": 14,
-    "forks_count": 7500
+    "stargazers_count": 68968,
+    "open_issues_count": 13,
+    "forks_count": 7508
   },
   {
     "full_name": "gr2m/get-json-paths-action",
@@ -140,7 +140,7 @@
   {
     "full_name": "octokit/graphql-action",
     "stargazers_count": 85,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 27
   },
   {
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 275482,
-    "open_issues_count": 38,
-    "forks_count": 54684
+    "stargazers_count": 275983,
+    "open_issues_count": 39,
+    "forks_count": 54753
   },
   {
     "full_name": "datadynamo/aiconf_sj_2019_pytorch",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "lukas/ml-class",
-    "stargazers_count": 1913,
+    "stargazers_count": 1917,
     "open_issues_count": 9,
-    "forks_count": 1077
+    "forks_count": 1079
   },
   {
     "full_name": "miroenev/rapids",

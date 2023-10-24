@@ -1,9 +1,9 @@
 [
   {
     "full_name": "milvus-io/bootcamp",
-    "stargazers_count": 1432,
+    "stargazers_count": 1434,
     "open_issues_count": 5,
-    "forks_count": 502
+    "forks_count": 505
   },
   {
     "full_name": "peckjon/taskeract",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "AntonOsika/gpt-engineer",
-    "stargazers_count": 44798,
-    "open_issues_count": 24,
-    "forks_count": 7358
+    "stargazers_count": 44997,
+    "open_issues_count": 21,
+    "forks_count": 7368
   },
   {
     "full_name": "Damovisa/openai",
@@ -25,31 +25,31 @@
   },
   {
     "full_name": "imartinez/privateGPT",
-    "stargazers_count": 38675,
-    "open_issues_count": 513,
-    "forks_count": 5116
+    "stargazers_count": 39128,
+    "open_issues_count": 512,
+    "forks_count": 5176
   },
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 24454,
-    "open_issues_count": 332,
-    "forks_count": 2270
+    "stargazers_count": 24521,
+    "open_issues_count": 334,
+    "forks_count": 2281
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 90826,
-    "open_issues_count": 288,
-    "forks_count": 12356
+    "stargazers_count": 91055,
+    "open_issues_count": 287,
+    "forks_count": 12388
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 44131,
-    "open_issues_count": 184,
-    "forks_count": 1104
+    "stargazers_count": 44216,
+    "open_issues_count": 187,
+    "forks_count": 1103
   },
   {
     "full_name": "flippercloud/flipper",
-    "stargazers_count": 3394,
+    "stargazers_count": 3396,
     "open_issues_count": 23,
     "forks_count": 396
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "jonico/awesome-runners",
-    "stargazers_count": 596,
+    "stargazers_count": 600,
     "open_issues_count": 0,
     "forks_count": 34
   },
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 3557,
-    "open_issues_count": 34,
-    "forks_count": 395
+    "stargazers_count": 3563,
+    "open_issues_count": 35,
+    "forks_count": 396
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 2309,
+    "stargazers_count": 2314,
     "open_issues_count": 18,
     "forks_count": 314
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 1086,
+    "stargazers_count": 1087,
     "open_issues_count": 46,
     "forks_count": 220
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 4325,
+    "stargazers_count": 4333,
     "open_issues_count": 361,
-    "forks_count": 1603
+    "forks_count": 1605
   },
   {
     "full_name": "algorithmiaio/algorithmia-ci-action",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "hugo53/awesome-RemoteWork",
-    "stargazers_count": 1249,
+    "stargazers_count": 1253,
     "open_issues_count": 5,
     "forks_count": 127
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 75042,
-    "open_issues_count": 21,
-    "forks_count": 8204
+    "stargazers_count": 75264,
+    "open_issues_count": 23,
+    "forks_count": 8222
   },
   {
     "full_name": "gr2m/get-json-paths-action",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "octokit/graphql-action",
-    "stargazers_count": 96,
+    "stargazers_count": 98,
     "open_issues_count": 3,
     "forks_count": 28
   },

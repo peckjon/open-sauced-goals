@@ -1,7 +1,7 @@
 [
   {
     "full_name": "mscoutermarsh/mscoutermarsh",
-    "stargazers_count": 305,
+    "stargazers_count": 306,
     "open_issues_count": 13,
     "forks_count": 51
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "milvus-io/bootcamp",
-    "stargazers_count": 1567,
+    "stargazers_count": 1569,
     "open_issues_count": 12,
-    "forks_count": 527
+    "forks_count": 530
   },
   {
     "full_name": "peckjon/taskeract",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "gpt-engineer-org/gpt-engineer",
-    "stargazers_count": 49451,
-    "open_issues_count": 32,
-    "forks_count": 6418
+    "stargazers_count": 49503,
+    "open_issues_count": 33,
+    "forks_count": 6426
   },
   {
     "full_name": "Damovisa/openai",
@@ -37,44 +37,44 @@
   },
   {
     "full_name": "imartinez/privateGPT",
-    "stargazers_count": 48240,
-    "open_issues_count": 136,
-    "forks_count": 6332
+    "stargazers_count": 48350,
+    "open_issues_count": 141,
+    "forks_count": 6351
   },
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 26991,
-    "open_issues_count": 398,
-    "forks_count": 2462
+    "stargazers_count": 27068,
+    "open_issues_count": 399,
+    "forks_count": 2469
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 100967,
+    "stargazers_count": 101177,
     "open_issues_count": 287,
-    "forks_count": 13592
+    "forks_count": 13618
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 48731,
+    "stargazers_count": 48819,
     "open_issues_count": 203,
-    "forks_count": 1198
+    "forks_count": 1204
   },
   {
     "full_name": "flippercloud/flipper",
-    "stargazers_count": 3519,
+    "stargazers_count": 3521,
     "open_issues_count": 28,
     "forks_count": 398
   },
   {
     "full_name": "kciter/aws-ecr-action",
-    "stargazers_count": 137,
+    "stargazers_count": 138,
     "open_issues_count": 10,
     "forks_count": 109
   },
   {
     "full_name": "peckjon/reject-pr-approval-from-committer",
     "stargazers_count": 10,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
@@ -87,11 +87,11 @@
     "full_name": "thegooddocsproject/templates",
     "stargazers_count": 659,
     "open_issues_count": 76,
-    "forks_count": 164
+    "forks_count": 165
   },
   {
     "full_name": "jonico/awesome-runners",
-    "stargazers_count": 646,
+    "stargazers_count": 647,
     "open_issues_count": 0,
     "forks_count": 35
   },
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 3845,
+    "stargazers_count": 3852,
     "open_issues_count": 36,
     "forks_count": 373
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 2526,
+    "stargazers_count": 2532,
     "open_issues_count": 19,
     "forks_count": 262
   },
   {
     "full_name": "ad-m/github-push-action",
     "stargazers_count": 1126,
-    "open_issues_count": 43,
-    "forks_count": 226
+    "open_issues_count": 42,
+    "forks_count": 216
   },
   {
     "full_name": "peckjon/vulnerability-to-azure-board",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 4581,
-    "open_issues_count": 382,
-    "forks_count": 1288
+    "stargazers_count": 4589,
+    "open_issues_count": 385,
+    "forks_count": 1290
   },
   {
     "full_name": "algorithmiaio/algorithmia-ci-action",
@@ -153,7 +153,7 @@
     "full_name": "danhellem/github-actions-issue-to-work-item",
     "stargazers_count": 69,
     "open_issues_count": 2,
-    "forks_count": 55
+    "forks_count": 52
   },
   {
     "full_name": "EqualExperts/remote-working-playbook",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "hugo53/awesome-RemoteWork",
-    "stargazers_count": 1350,
+    "stargazers_count": 1351,
     "open_issues_count": 6,
     "forks_count": 133
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 81948,
-    "open_issues_count": 13,
-    "forks_count": 8843
+    "stargazers_count": 82066,
+    "open_issues_count": 11,
+    "forks_count": 8855
   },
   {
     "full_name": "gr2m/get-json-paths-action",

@@ -1,37 +1,37 @@
 [
   {
     "full_name": "gavinr/github-csv-tools",
-    "stargazers_count": 645,
+    "stargazers_count": 646,
     "open_issues_count": 20,
     "forks_count": 118
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 6818,
+    "stargazers_count": 6825,
     "open_issues_count": 55,
     "forks_count": 195
   },
   {
     "full_name": "open-webui/open-webui",
-    "stargazers_count": 32766,
-    "open_issues_count": 140,
-    "forks_count": 3630
+    "stargazers_count": 33442,
+    "open_issues_count": 153,
+    "forks_count": 3722
   },
   {
     "full_name": "webcrumbs-community/webcrumbs",
-    "stargazers_count": 858,
+    "stargazers_count": 859,
     "open_issues_count": 2,
     "forks_count": 80
   },
   {
     "full_name": "charmbracelet/freeze",
-    "stargazers_count": 2967,
+    "stargazers_count": 2981,
     "open_issues_count": 50,
     "forks_count": 49
   },
   {
     "full_name": "mscoutermarsh/mscoutermarsh",
-    "stargazers_count": 322,
+    "stargazers_count": 323,
     "open_issues_count": 13,
     "forks_count": 51
   },
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "milvus-io/bootcamp",
-    "stargazers_count": 1746,
-    "open_issues_count": 15,
+    "stargazers_count": 1748,
+    "open_issues_count": 17,
     "forks_count": 549
   },
   {
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "gpt-engineer-org/gpt-engineer",
-    "stargazers_count": 51482,
-    "open_issues_count": 12,
-    "forks_count": 6695
+    "stargazers_count": 51518,
+    "open_issues_count": 15,
+    "forks_count": 6699
   },
   {
     "full_name": "Damovisa/openai",
@@ -67,31 +67,31 @@
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 53089,
-    "open_issues_count": 221,
-    "forks_count": 7125
+    "stargazers_count": 53134,
+    "open_issues_count": 222,
+    "forks_count": 7134
   },
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 29187,
-    "open_issues_count": 425,
+    "stargazers_count": 29234,
+    "open_issues_count": 426,
     "forks_count": 2636
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 107500,
-    "open_issues_count": 288,
-    "forks_count": 14715
+    "stargazers_count": 107613,
+    "open_issues_count": 286,
+    "forks_count": 14739
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 52660,
+    "stargazers_count": 52756,
     "open_issues_count": 203,
-    "forks_count": 1315
+    "forks_count": 1321
   },
   {
     "full_name": "flippercloud/flipper",
-    "stargazers_count": 3627,
+    "stargazers_count": 3628,
     "open_issues_count": 34,
     "forks_count": 410
   },
@@ -99,7 +99,7 @@
     "full_name": "kciter/aws-ecr-action",
     "stargazers_count": 143,
     "open_issues_count": 10,
-    "forks_count": 114
+    "forks_count": 113
   },
   {
     "full_name": "peckjon/reject-pr-approval-from-committer",
@@ -117,13 +117,13 @@
     "full_name": "thegooddocsproject/templates",
     "stargazers_count": 670,
     "open_issues_count": 76,
-    "forks_count": 166
+    "forks_count": 167
   },
   {
     "full_name": "jonico/awesome-runners",
-    "stargazers_count": 695,
-    "open_issues_count": 1,
-    "forks_count": 40
+    "stargazers_count": 696,
+    "open_issues_count": 0,
+    "forks_count": 41
   },
   {
     "full_name": "KafeKhalife/kafekhalife.github.io",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 4057,
-    "open_issues_count": 45,
-    "forks_count": 402
+    "stargazers_count": 4060,
+    "open_issues_count": 44,
+    "forks_count": 408
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 2794,
+    "stargazers_count": 2801,
     "open_issues_count": 22,
-    "forks_count": 282
+    "forks_count": 283
   },
   {
     "full_name": "ad-m/github-push-action",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 4834,
-    "open_issues_count": 422,
-    "forks_count": 1379
+    "stargazers_count": 4841,
+    "open_issues_count": 424,
+    "forks_count": 1376
   },
   {
     "full_name": "algorithmiaio/algorithmia-ci-action",

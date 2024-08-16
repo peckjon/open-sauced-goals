@@ -1,39 +1,39 @@
 [
   {
     "full_name": "gavinr/github-csv-tools",
-    "stargazers_count": 646,
+    "stargazers_count": 647,
     "open_issues_count": 20,
     "forks_count": 118
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 6877,
-    "open_issues_count": 57,
+    "stargazers_count": 6887,
+    "open_issues_count": 58,
     "forks_count": 198
   },
   {
     "full_name": "open-webui/open-webui",
-    "stargazers_count": 35341,
-    "open_issues_count": 158,
-    "forks_count": 3982
+    "stargazers_count": 35712,
+    "open_issues_count": 150,
+    "forks_count": 4034
   },
   {
     "full_name": "webcrumbs-community/webcrumbs",
-    "stargazers_count": 1004,
+    "stargazers_count": 1034,
     "open_issues_count": 2,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "charmbracelet/freeze",
-    "stargazers_count": 3025,
+    "stargazers_count": 3038,
     "open_issues_count": 49,
     "forks_count": 51
   },
   {
     "full_name": "mscoutermarsh/mscoutermarsh",
-    "stargazers_count": 323,
+    "stargazers_count": 324,
     "open_issues_count": 13,
-    "forks_count": 51
+    "forks_count": 50
   },
   {
     "full_name": "ipc103/make-it-taylors-version",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "milvus-io/bootcamp",
-    "stargazers_count": 1762,
+    "stargazers_count": 1765,
     "open_issues_count": 16,
     "forks_count": 551
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "gpt-engineer-org/gpt-engineer",
-    "stargazers_count": 51598,
+    "stargazers_count": 51624,
     "open_issues_count": 12,
-    "forks_count": 6717
+    "forks_count": 6718
   },
   {
     "full_name": "Damovisa/openai",
@@ -67,33 +67,33 @@
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 53259,
-    "open_issues_count": 221,
-    "forks_count": 7153
+    "stargazers_count": 53293,
+    "open_issues_count": 222,
+    "forks_count": 7160
   },
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 29372,
+    "stargazers_count": 29407,
     "open_issues_count": 426,
-    "forks_count": 2653
+    "forks_count": 2655
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 108006,
-    "open_issues_count": 286,
-    "forks_count": 14795
+    "stargazers_count": 108104,
+    "open_issues_count": 285,
+    "forks_count": 14809
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 53166,
-    "open_issues_count": 206,
-    "forks_count": 1328
+    "stargazers_count": 53233,
+    "open_issues_count": 198,
+    "forks_count": 1332
   },
   {
     "full_name": "flippercloud/flipper",
-    "stargazers_count": 3641,
-    "open_issues_count": 34,
-    "forks_count": 409
+    "stargazers_count": 3643,
+    "open_issues_count": 35,
+    "forks_count": 410
   },
   {
     "full_name": "kciter/aws-ecr-action",
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "thegooddocsproject/templates",
-    "stargazers_count": 670,
+    "stargazers_count": 671,
     "open_issues_count": 76,
-    "forks_count": 168
+    "forks_count": 169
   },
   {
     "full_name": "jonico/awesome-runners",
-    "stargazers_count": 699,
+    "stargazers_count": 704,
     "open_issues_count": 1,
     "forks_count": 42
   },
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 4086,
+    "stargazers_count": 4090,
     "open_issues_count": 44,
     "forks_count": 410
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 2833,
+    "stargazers_count": 2842,
     "open_issues_count": 22,
     "forks_count": 284
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 1174,
+    "stargazers_count": 1176,
     "open_issues_count": 37,
     "forks_count": 223
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 4864,
-    "open_issues_count": 429,
-    "forks_count": 1386
+    "stargazers_count": 4866,
+    "open_issues_count": 431,
+    "forks_count": 1388
   },
   {
     "full_name": "algorithmiaio/algorithmia-ci-action",

@@ -1,37 +1,37 @@
 [
   {
     "full_name": "gavinr/github-csv-tools",
-    "stargazers_count": 656,
+    "stargazers_count": 657,
     "open_issues_count": 20,
     "forks_count": 116
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 6972,
+    "stargazers_count": 6977,
     "open_issues_count": 58,
-    "forks_count": 202
+    "forks_count": 203
   },
   {
     "full_name": "open-webui/open-webui",
-    "stargazers_count": 38502,
-    "open_issues_count": 151,
-    "forks_count": 4474
+    "stargazers_count": 38820,
+    "open_issues_count": 157,
+    "forks_count": 4521
   },
   {
     "full_name": "webcrumbs-community/webcrumbs",
-    "stargazers_count": 1150,
+    "stargazers_count": 1157,
     "open_issues_count": 4,
     "forks_count": 95
   },
   {
     "full_name": "charmbracelet/freeze",
-    "stargazers_count": 3127,
+    "stargazers_count": 3137,
     "open_issues_count": 50,
     "forks_count": 52
   },
   {
     "full_name": "mscoutermarsh/mscoutermarsh",
-    "stargazers_count": 327,
+    "stargazers_count": 328,
     "open_issues_count": 13,
     "forks_count": 50
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "milvus-io/bootcamp",
-    "stargazers_count": 1804,
+    "stargazers_count": 1808,
     "open_issues_count": 16,
-    "forks_count": 554
+    "forks_count": 555
   },
   {
     "full_name": "peckjon/taskeract",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "gpt-engineer-org/gpt-engineer",
-    "stargazers_count": 51967,
+    "stargazers_count": 51977,
     "open_issues_count": 15,
     "forks_count": 6769
   },
@@ -67,37 +67,37 @@
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 53539,
-    "open_issues_count": 230,
-    "forks_count": 7198
+    "stargazers_count": 53540,
+    "open_issues_count": 235,
+    "forks_count": 7193
   },
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 29689,
-    "open_issues_count": 431,
-    "forks_count": 2679
+    "stargazers_count": 29733,
+    "open_issues_count": 432,
+    "forks_count": 2684
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 110290,
-    "open_issues_count": 291,
-    "forks_count": 15012
+    "stargazers_count": 110480,
+    "open_issues_count": 290,
+    "forks_count": 15019
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 53788,
-    "open_issues_count": 192,
-    "forks_count": 1339
+    "stargazers_count": 53853,
+    "open_issues_count": 202,
+    "forks_count": 1342
   },
   {
     "full_name": "flippercloud/flipper",
-    "stargazers_count": 3659,
+    "stargazers_count": 3662,
     "open_issues_count": 32,
-    "forks_count": 410
+    "forks_count": 411
   },
   {
     "full_name": "kciter/aws-ecr-action",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 10,
     "forks_count": 114
   },
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "thegooddocsproject/templates",
-    "stargazers_count": 673,
+    "stargazers_count": 674,
     "open_issues_count": 76,
     "forks_count": 169
   },
   {
     "full_name": "jonico/awesome-runners",
-    "stargazers_count": 708,
+    "stargazers_count": 709,
     "open_issues_count": 1,
     "forks_count": 42
   },
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 4117,
-    "open_issues_count": 45,
+    "stargazers_count": 4126,
+    "open_issues_count": 44,
     "forks_count": 410
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 2862,
+    "stargazers_count": 2867,
     "open_issues_count": 23,
     "forks_count": 285
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 1184,
+    "stargazers_count": 1185,
     "open_issues_count": 37,
     "forks_count": 226
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 4906,
-    "open_issues_count": 443,
-    "forks_count": 1400
+    "stargazers_count": 4909,
+    "open_issues_count": 446,
+    "forks_count": 1402
   },
   {
     "full_name": "algorithmiaio/algorithmia-ci-action",

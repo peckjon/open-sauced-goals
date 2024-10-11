@@ -7,33 +7,33 @@
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 7061,
+    "stargazers_count": 7082,
     "open_issues_count": 61,
-    "forks_count": 208
+    "forks_count": 209
   },
   {
     "full_name": "open-webui/open-webui",
-    "stargazers_count": 41762,
-    "open_issues_count": 128,
-    "forks_count": 4928
+    "stargazers_count": 42292,
+    "open_issues_count": 139,
+    "forks_count": 5054
   },
   {
     "full_name": "webcrumbs-community/webcrumbs",
-    "stargazers_count": 1236,
-    "open_issues_count": 7,
-    "forks_count": 100
+    "stargazers_count": 1253,
+    "open_issues_count": 1,
+    "forks_count": 103
   },
   {
     "full_name": "charmbracelet/freeze",
-    "stargazers_count": 3234,
+    "stargazers_count": 3248,
     "open_issues_count": 52,
     "forks_count": 55
   },
   {
     "full_name": "mscoutermarsh/mscoutermarsh",
-    "stargazers_count": 328,
+    "stargazers_count": 329,
     "open_issues_count": 13,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "ipc103/make-it-taylors-version",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "milvus-io/bootcamp",
-    "stargazers_count": 1827,
-    "open_issues_count": 17,
-    "forks_count": 562
+    "stargazers_count": 1831,
+    "open_issues_count": 16,
+    "forks_count": 565
   },
   {
     "full_name": "peckjon/taskeract",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "gpt-engineer-org/gpt-engineer",
-    "stargazers_count": 52136,
-    "open_issues_count": 19,
-    "forks_count": 6790
+    "stargazers_count": 52155,
+    "open_issues_count": 21,
+    "forks_count": 6799
   },
   {
     "full_name": "Damovisa/openai",
@@ -67,39 +67,39 @@
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 53805,
-    "open_issues_count": 232,
-    "forks_count": 7227
+    "stargazers_count": 53844,
+    "open_issues_count": 236,
+    "forks_count": 7241
   },
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 29964,
+    "stargazers_count": 30016,
     "open_issues_count": 433,
     "forks_count": 2705
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 111395,
+    "stargazers_count": 111513,
     "open_issues_count": 295,
-    "forks_count": 15188
+    "forks_count": 15208
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 54390,
-    "open_issues_count": 201,
-    "forks_count": 1356
+    "stargazers_count": 54478,
+    "open_issues_count": 199,
+    "forks_count": 1357
   },
   {
     "full_name": "flippercloud/flipper",
-    "stargazers_count": 3689,
-    "open_issues_count": 36,
-    "forks_count": 412
+    "stargazers_count": 3691,
+    "open_issues_count": 37,
+    "forks_count": 413
   },
   {
     "full_name": "kciter/aws-ecr-action",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 10,
-    "forks_count": 114
+    "forks_count": 115
   },
   {
     "full_name": "peckjon/reject-pr-approval-from-committer",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "jonico/awesome-runners",
-    "stargazers_count": 713,
+    "stargazers_count": 715,
     "open_issues_count": 0,
     "forks_count": 42
   },
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 4166,
+    "stargazers_count": 4173,
     "open_issues_count": 46,
-    "forks_count": 415
+    "forks_count": 416
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 2900,
-    "open_issues_count": 25,
-    "forks_count": 288
+    "stargazers_count": 2901,
+    "open_issues_count": 24,
+    "forks_count": 289
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 1199,
+    "stargazers_count": 1200,
     "open_issues_count": 37,
     "forks_count": 227
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 4943,
+    "stargazers_count": 4947,
     "open_issues_count": 447,
-    "forks_count": 1417
+    "forks_count": 1418
   },
   {
     "full_name": "algorithmiaio/algorithmia-ci-action",

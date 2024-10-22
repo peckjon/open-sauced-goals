@@ -1,32 +1,44 @@
 [
   {
+    "full_name": "FiloSottile/mkcert",
+    "stargazers_count": 48919,
+    "open_issues_count": 145,
+    "forks_count": 2530
+  },
+  {
+    "full_name": "glich-stream/gol-badger-2040",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "gavinr/github-csv-tools",
-    "stargazers_count": 662,
+    "stargazers_count": 661,
     "open_issues_count": 20,
     "forks_count": 117
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 7111,
-    "open_issues_count": 63,
-    "forks_count": 211
+    "stargazers_count": 7120,
+    "open_issues_count": 65,
+    "forks_count": 212
   },
   {
     "full_name": "open-webui/open-webui",
-    "stargazers_count": 43196,
-    "open_issues_count": 141,
-    "forks_count": 5208
+    "stargazers_count": 43618,
+    "open_issues_count": 133,
+    "forks_count": 5276
   },
   {
     "full_name": "webcrumbs-community/webcrumbs",
-    "stargazers_count": 1278,
-    "open_issues_count": 6,
-    "forks_count": 108
+    "stargazers_count": 1283,
+    "open_issues_count": 5,
+    "forks_count": 111
   },
   {
     "full_name": "charmbracelet/freeze",
-    "stargazers_count": 3275,
-    "open_issues_count": 52,
+    "stargazers_count": 3285,
+    "open_issues_count": 53,
     "forks_count": 55
   },
   {
@@ -43,9 +55,9 @@
   },
   {
     "full_name": "milvus-io/bootcamp",
-    "stargazers_count": 1849,
+    "stargazers_count": 1851,
     "open_issues_count": 16,
-    "forks_count": 570
+    "forks_count": 571
   },
   {
     "full_name": "peckjon/taskeract",
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "gpt-engineer-org/gpt-engineer",
-    "stargazers_count": 52183,
+    "stargazers_count": 52217,
     "open_issues_count": 23,
-    "forks_count": 6797
+    "forks_count": 6803
   },
   {
     "full_name": "Damovisa/openai",
@@ -67,31 +79,31 @@
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 53924,
-    "open_issues_count": 238,
-    "forks_count": 7247
+    "stargazers_count": 53960,
+    "open_issues_count": 239,
+    "forks_count": 7252
   },
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 30112,
-    "open_issues_count": 435,
-    "forks_count": 2715
+    "stargazers_count": 30146,
+    "open_issues_count": 436,
+    "forks_count": 2717
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 111744,
-    "open_issues_count": 296,
-    "forks_count": 15249
+    "stargazers_count": 111852,
+    "open_issues_count": 295,
+    "forks_count": 15269
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 54623,
-    "open_issues_count": 199,
-    "forks_count": 1360
+    "stargazers_count": 54700,
+    "open_issues_count": 205,
+    "forks_count": 1363
   },
   {
     "full_name": "flippercloud/flipper",
-    "stargazers_count": 3697,
+    "stargazers_count": 3699,
     "open_issues_count": 37,
     "forks_count": 413
   },
@@ -121,7 +133,7 @@
   },
   {
     "full_name": "jonico/awesome-runners",
-    "stargazers_count": 721,
+    "stargazers_count": 725,
     "open_issues_count": 0,
     "forks_count": 41
   },
@@ -133,13 +145,13 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 4183,
+    "stargazers_count": 4191,
     "open_issues_count": 48,
-    "forks_count": 415
+    "forks_count": 416
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 2911,
+    "stargazers_count": 2917,
     "open_issues_count": 24,
     "forks_count": 289
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 4967,
-    "open_issues_count": 450,
-    "forks_count": 1427
-  },
-  {
-    "full_name": "algorithmiaio/algorithmia-ci-action",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "LizzySoltis/CoopedUp4Covid19",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 3
+    "stargazers_count": 4974,
+    "open_issues_count": 449,
+    "forks_count": 1429
   }
 ]

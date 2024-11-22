@@ -1,15 +1,15 @@
 [
   {
     "full_name": "badger/home",
-    "stargazers_count": 116,
-    "open_issues_count": 3,
-    "forks_count": 25
+    "stargazers_count": 120,
+    "open_issues_count": 4,
+    "forks_count": 27
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 50312,
+    "stargazers_count": 50411,
     "open_issues_count": 148,
-    "forks_count": 2636
+    "forks_count": 2645
   },
   {
     "full_name": "glich-stream/gol-badger-2350",
@@ -19,39 +19,39 @@
   },
   {
     "full_name": "gavinr/github-csv-tools",
-    "stargazers_count": 666,
+    "stargazers_count": 668,
     "open_issues_count": 20,
     "forks_count": 119
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 7211,
+    "stargazers_count": 7225,
     "open_issues_count": 65,
     "forks_count": 218
   },
   {
     "full_name": "open-webui/open-webui",
-    "stargazers_count": 47345,
-    "open_issues_count": 139,
-    "forks_count": 5786
+    "stargazers_count": 47888,
+    "open_issues_count": 140,
+    "forks_count": 5845
   },
   {
     "full_name": "webcrumbs-community/webcrumbs",
-    "stargazers_count": 1356,
-    "open_issues_count": 5,
+    "stargazers_count": 1373,
+    "open_issues_count": 6,
     "forks_count": 121
   },
   {
     "full_name": "charmbracelet/freeze",
-    "stargazers_count": 3371,
-    "open_issues_count": 55,
-    "forks_count": 58
+    "stargazers_count": 3421,
+    "open_issues_count": 58,
+    "forks_count": 59
   },
   {
     "full_name": "mscoutermarsh/mscoutermarsh",
-    "stargazers_count": 339,
+    "stargazers_count": 340,
     "open_issues_count": 13,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "ipc103/make-it-taylors-version",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "milvus-io/bootcamp",
-    "stargazers_count": 1890,
+    "stargazers_count": 1896,
     "open_issues_count": 16,
-    "forks_count": 583
+    "forks_count": 584
   },
   {
     "full_name": "peckjon/taskeract",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "gpt-engineer-org/gpt-engineer",
-    "stargazers_count": 52421,
-    "open_issues_count": 25,
-    "forks_count": 6819
+    "stargazers_count": 52455,
+    "open_issues_count": 28,
+    "forks_count": 6824
   },
   {
     "full_name": "Damovisa/openai",
@@ -85,32 +85,32 @@
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 54204,
+    "stargazers_count": 54234,
     "open_issues_count": 247,
     "forks_count": 7294
   },
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 30410,
+    "stargazers_count": 30461,
     "open_issues_count": 441,
-    "forks_count": 2730
+    "forks_count": 2736
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 112955,
+    "stargazers_count": 113183,
     "open_issues_count": 299,
-    "forks_count": 15389
+    "forks_count": 15422
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 55395,
-    "open_issues_count": 215,
-    "forks_count": 1380
+    "stargazers_count": 55555,
+    "open_issues_count": 219,
+    "forks_count": 1387
   },
   {
     "full_name": "flippercloud/flipper",
-    "stargazers_count": 3718,
-    "open_issues_count": 33,
+    "stargazers_count": 3722,
+    "open_issues_count": 32,
     "forks_count": 419
   },
   {
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "thegooddocsproject/templates",
-    "stargazers_count": 680,
+    "stargazers_count": 679,
     "open_issues_count": 76,
     "forks_count": 170
   },
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 4232,
+    "stargazers_count": 4237,
     "open_issues_count": 49,
-    "forks_count": 423
+    "forks_count": 424
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 2956,
-    "open_issues_count": 24,
+    "stargazers_count": 2962,
+    "open_issues_count": 26,
     "forks_count": 290
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 1206,
+    "stargazers_count": 1207,
     "open_issues_count": 37,
     "forks_count": 228
   },

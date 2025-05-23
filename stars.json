@@ -1,9 +1,9 @@
 [
   {
     "full_name": "binwiederhier/ntfy",
-    "stargazers_count": 22839,
-    "open_issues_count": 393,
-    "forks_count": 906
+    "stargazers_count": 22885,
+    "open_issues_count": 363,
+    "forks_count": 907
   },
   {
     "full_name": "reflex-dev/reflex-llm-examples",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 53553,
+    "stargazers_count": 53609,
     "open_issues_count": 154,
-    "forks_count": 2810
+    "forks_count": 2812
   },
   {
     "full_name": "glich-stream/gol-badger-2350",
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "dlvhdr/gh-dash",
-    "stargazers_count": 8319,
+    "stargazers_count": 8331,
     "open_issues_count": 70,
-    "forks_count": 258
+    "forks_count": 259
   },
   {
     "full_name": "open-webui/open-webui",
-    "stargazers_count": 95318,
-    "open_issues_count": 208,
-    "forks_count": 12257
+    "stargazers_count": 95747,
+    "open_issues_count": 206,
+    "forks_count": 12360
   },
   {
     "full_name": "webcrumbs-community/webcrumbs",
-    "stargazers_count": 1744,
+    "stargazers_count": 1748,
     "open_issues_count": 6,
     "forks_count": 145
   },
   {
     "full_name": "charmbracelet/freeze",
-    "stargazers_count": 3817,
+    "stargazers_count": 3821,
     "open_issues_count": 58,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "mscoutermarsh/mscoutermarsh",
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "milvus-io/bootcamp",
-    "stargazers_count": 2111,
-    "open_issues_count": 17,
+    "stargazers_count": 2114,
+    "open_issues_count": 12,
     "forks_count": 630
   },
   {
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "AntonOsika/gpt-engineer",
-    "stargazers_count": 54162,
+    "stargazers_count": 54175,
     "open_issues_count": 38,
-    "forks_count": 7122
+    "forks_count": 7133
   },
   {
     "full_name": "Damovisa/openai",
@@ -97,31 +97,31 @@
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 55863,
-    "open_issues_count": 270,
-    "forks_count": 7472
+    "stargazers_count": 55885,
+    "open_issues_count": 271,
+    "forks_count": 7473
   },
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 32325,
+    "stargazers_count": 32350,
     "open_issues_count": 449,
-    "forks_count": 2888
+    "forks_count": 2886
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 125365,
-    "open_issues_count": 271,
-    "forks_count": 16724
+    "stargazers_count": 126194,
+    "open_issues_count": 274,
+    "forks_count": 16789
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 61842,
-    "open_issues_count": 236,
-    "forks_count": 1606
+    "stargazers_count": 62914,
+    "open_issues_count": 266,
+    "forks_count": 1639
   },
   {
     "full_name": "flippercloud/flipper",
-    "stargazers_count": 3808,
+    "stargazers_count": 3810,
     "open_issues_count": 23,
     "forks_count": 428
   },
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 4508,
+    "stargazers_count": 4511,
     "open_issues_count": 60,
-    "forks_count": 457
+    "forks_count": 455
   },
   {
     "full_name": "mxschmitt/action-tmate",
-    "stargazers_count": 3172,
-    "open_issues_count": 31,
-    "forks_count": 307
+    "stargazers_count": 3175,
+    "open_issues_count": 33,
+    "forks_count": 306
   },
   {
     "full_name": "ad-m/github-push-action",

@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "peckjon/daft-image-playground",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "peckjon/feature-filter",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -171,12 +177,6 @@
     "full_name": "peckjon/universe-haikus-for-mona",
     "stargazers_count": 1,
     "open_issues_count": 5,
-    "forks_count": 0
-  },
-  {
-    "full_name": "peckjon/csv-to-md-table-action",
-    "stargazers_count": 1,
-    "open_issues_count": 8,
     "forks_count": 0
   }
 ]

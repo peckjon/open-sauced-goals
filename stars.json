@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "googleworkspace/cli",
+    "stargazers_count": 28704,
+    "open_issues_count": 123,
+    "forks_count": 1601
+  },
+  {
     "full_name": "0xemmkty/QuantMuse",
-    "stargazers_count": 2696,
-    "open_issues_count": 12,
+    "stargazers_count": 2700,
+    "open_issues_count": 9,
     "forks_count": 559
   },
   {
     "full_name": "exo-explore/exo",
-    "stargazers_count": 45533,
-    "open_issues_count": 263,
-    "forks_count": 3268
+    "stargazers_count": 45627,
+    "open_issues_count": 269,
+    "forks_count": 3278
   },
   {
     "full_name": "peckjon/copilot-chat-to-markdown",
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "firecrawl/firecrawl",
-    "stargazers_count": 137402,
-    "open_issues_count": 399,
-    "forks_count": 7964
+    "stargazers_count": 139265,
+    "open_issues_count": 358,
+    "forks_count": 8020
   },
   {
     "full_name": "google-gemini/veo-3-nano-banana-gemini-api-quickstart",
     "stargazers_count": 325,
     "open_issues_count": 15,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "peckjon/daft-image-playground",
@@ -171,12 +177,6 @@
     "full_name": "peckjon/pets-walkthrough",
     "stargazers_count": 2,
     "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "peckjon/dev-center",
-    "stargazers_count": 1,
-    "open_issues_count": 7,
     "forks_count": 0
   }
 ]
